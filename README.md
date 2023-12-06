@@ -14,8 +14,8 @@ Hope you can learn something from this program!
 # Screenshots
 
 Menu Window:
-[soon to add]
+![MenuWindow](https://github.com/Fealoyalmy/Plants-vs.-Zombies/tree/master/images/menu.jpg)
 
 Game Window:
-[soon to add]
+![GameWindow](https://github.com/Fealoyalmy/Plants-vs.-Zombies/tree/master/images/game.jpg)
 
